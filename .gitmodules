@@ -1,3 +1,15 @@
-[submodule "plugins/artisan"]
-	path = plugins/artisan
-	url = git@github.com:jessarcher/zsh-artisan.git
+[submodule "plugins/zsh-autosuggestions"]
+	path = plugins/zsh-autosuggestions
+	url = git@github.com:zsh-users/zsh-autosuggestions.git
+[submodule "plugins/zsh-syntax-highlighting"]
+	path = plugins/zsh-syntax-highlighting
+	url = git@github.com:zsh-users/zsh-syntax-highlighting.git
+[submodule "theme/zsh"]
+	path = theme/zsh
+	url = git@github.com:dracula/zsh.git
+[submodule "theme/zsh-syntax-highlighting"]
+	path = theme/zsh-syntax-highlighting
+	url = git@github.com:dracula/zsh-syntax-highlighting.git
+[submodule "theme/iterm"]
+	path = theme/iterm
+	url = git@github.com:dracula/iterm.git
